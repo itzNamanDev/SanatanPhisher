@@ -6,7 +6,7 @@
 - **It provides a good UI to target people easily. It has IP Logger, Webcam Logger, and Microphone Logger. It can also log Location. It provides estimate location using GeoLocation.**
 
 ## Disclaimer ⚠️
-**This script is for educatioal purposes and fair use only. We discourages se of it for illegal purpose. It may cause legal problems. The user is responsible for misuse.**
+**This script is for educatioal purposes and fair use only. We discourages use of it for illegal purpose. It may cause legal problems. The user is responsible for misuse.**
 
 ## Installation 🛠️
 
